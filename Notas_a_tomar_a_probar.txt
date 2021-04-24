@@ -1,0 +1,16 @@
+Yo utilice el threading.current_thread().getName(), para saber el nombre de los procesos
+porque en este caso ya me acostubre a saber cual es cual, ahora te los nombrare:
+
+Thread-1  =======>  Proceso 1 de Cliente
+Thread-2  =======>  Proceso 2 de Cliente
+Thread-3  =======>  Proceso 3 de Cliente
+Thread-4  =======>  Proceso 4 de Cliente
+Thread-5  =======>  Proceso 5 de Cliente
+Thread-6  =======>  Proceso 6 de Cliente
+Thread-7  =======>  Proceso 7 de Cliente
+Thread-8  =======>  Proceso 8 de Cliente
+Thread-9  =======>  Proceso 9 de Cliente
+Thread-10  =======>  Proceso 10 de Cliente
+Thread-11  =======>  Proceso 1 de Barbero
+Thread-12  =======>  Proceso 2 de Barbero
+Thread-13  =======>  Proceso 3 de Barbero
